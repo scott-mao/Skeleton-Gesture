@@ -1,4 +1,4 @@
-# Gesture-Recording
-Collect Continuous Gesture 's skeleton data
+# Skeleton-Gesture
+Source for my thesis "Continuous Dynamic Hand Gesture Recognition based on Recurrent Neural Networks over Skeleton Information"
 
-Inter's RealSense Linrary based gesture's skeleton data collecting project
+Training data can be downloaded from http://www-rech.telecom-lille.fr/shrec2017-hand/
